@@ -32,7 +32,7 @@ We encourage collaboration and contributions from within the Santa Rosa City Sch
 3.  **Make your changes** and commit them with clear and descriptive messages.
 4.  **Submit a pull request** to the main branch.
 
-Please adhere to our [Code of Conduct](link-to-code-of-conduct.md) (if you have one) and follow the project's contribution guidelines.
+Please adhere to our [Code of Conduct](code-of-conduct.md) and follow the project's contribution guidelines.
 
 ## Contact
 
